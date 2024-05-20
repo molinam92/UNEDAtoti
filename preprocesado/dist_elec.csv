@@ -1,0 +1,274 @@
+YEAR;cod_distrito;distrito;categoría_1;indicador_nivel1;indicador_nivel2;valor_indicador
+2019;1;Centro;Resultados Elecciones Locales;Número de votos;Censo;98873
+2019;1;Centro;Resultados Elecciones Locales;Número de votos;Más Madrid;32421
+2019;1;Centro;Resultados Elecciones Locales;Número de votos;Partido Popular;11379
+2019;1;Centro;Resultados Elecciones Locales;Número de votos;Ciudadanos;8851
+2019;1;Centro;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;6069
+2019;1;Centro;Resultados Elecciones Locales;Número de votos;VOX;3625
+2023;1;Centro;Resultados Elecciones Locales;Número de votos;Censo;95771
+2023;1;Centro;Resultados Elecciones Locales;Número de votos;Ciudadanos;1790
+2023;1;Centro;Resultados Elecciones Locales;Número de votos;Más Madrid;20281
+2023;1;Centro;Resultados Elecciones Locales;Número de votos;Partido Popular;20456
+2023;1;Centro;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;9045
+2023;1;Centro;Resultados Elecciones Locales;Número de votos;Podemos-Izquierda Unida-Alianza Verde;5492
+2023;1;Centro;Resultados Elecciones Locales;Número de votos;VOX;4078
+2019;2;Arganzuela;Resultados Elecciones Locales;Número de votos;Censo;120913
+2019;2;Arganzuela;Resultados Elecciones Locales;Número de votos;Más Madrid;35017
+2019;2;Arganzuela;Resultados Elecciones Locales;Número de votos;Partido Popular;18850
+2019;2;Arganzuela;Resultados Elecciones Locales;Número de votos;Ciudadanos;16757
+2019;2;Arganzuela;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;9464
+2019;2;Arganzuela;Resultados Elecciones Locales;Número de votos;VOX;5772
+2023;2;Arganzuela;Resultados Elecciones Locales;Número de votos;Censo;120060
+2023;2;Arganzuela;Resultados Elecciones Locales;Número de votos;Ciudadanos;3048
+2023;2;Arganzuela;Resultados Elecciones Locales;Número de votos;Más Madrid;22867
+2023;2;Arganzuela;Resultados Elecciones Locales;Número de votos;Partido Popular;35273
+2023;2;Arganzuela;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;13669
+2023;2;Arganzuela;Resultados Elecciones Locales;Número de votos;Podemos-Izquierda Unida-Alianza Verde;5831
+2023;2;Arganzuela;Resultados Elecciones Locales;Número de votos;VOX;6394
+2019;3;Retiro;Resultados Elecciones Locales;Número de votos;Censo;96176
+2019;3;Retiro;Resultados Elecciones Locales;Número de votos;Más Madrid;20563
+2019;3;Retiro;Resultados Elecciones Locales;Número de votos;Partido Popular;22792
+2019;3;Retiro;Resultados Elecciones Locales;Número de votos;Ciudadanos;15400
+2019;3;Retiro;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;6215
+2019;3;Retiro;Resultados Elecciones Locales;Número de votos;VOX;6201
+2023;3;Retiro;Resultados Elecciones Locales;Número de votos;Censo;93574
+2023;3;Retiro;Resultados Elecciones Locales;Número de votos;Ciudadanos;2461
+2023;3;Retiro;Resultados Elecciones Locales;Número de votos;Más Madrid;11867
+2023;3;Retiro;Resultados Elecciones Locales;Número de votos;Partido Popular;37227
+2023;3;Retiro;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;8894
+2023;3;Retiro;Resultados Elecciones Locales;Número de votos;Podemos-Izquierda Unida-Alianza Verde;2573
+2023;3;Retiro;Resultados Elecciones Locales;Número de votos;VOX;6830
+2019;4;Salamanca;Resultados Elecciones Locales;Número de votos;Censo;112709
+2019;4;Salamanca;Resultados Elecciones Locales;Número de votos;Más Madrid;16702
+2019;4;Salamanca;Resultados Elecciones Locales;Número de votos;Partido Popular;31356
+2019;4;Salamanca;Resultados Elecciones Locales;Número de votos;Ciudadanos;17580
+2019;4;Salamanca;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;6040
+2019;4;Salamanca;Resultados Elecciones Locales;Número de votos;VOX;8625
+2023;4;Salamanca;Resultados Elecciones Locales;Número de votos;Censo;108112
+2023;4;Salamanca;Resultados Elecciones Locales;Número de votos;Ciudadanos;2542
+2023;4;Salamanca;Resultados Elecciones Locales;Número de votos;Más Madrid;8837
+2023;4;Salamanca;Resultados Elecciones Locales;Número de votos;Partido Popular;48410
+2023;4;Salamanca;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;7793
+2023;4;Salamanca;Resultados Elecciones Locales;Número de votos;Podemos-Izquierda Unida-Alianza Verde;1836
+2023;4;Salamanca;Resultados Elecciones Locales;Número de votos;VOX;8957
+2019;5;Chamartín;Resultados Elecciones Locales;Número de votos;Censo;113650
+2019;5;Chamartín;Resultados Elecciones Locales;Número de votos;Más Madrid;16889
+2019;5;Chamartín;Resultados Elecciones Locales;Número de votos;Partido Popular;33039
+2019;5;Chamartín;Resultados Elecciones Locales;Número de votos;Ciudadanos;19358
+2019;5;Chamartín;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;5950
+2019;5;Chamartín;Resultados Elecciones Locales;Número de votos;VOX;8252
+2023;5;Chamartín;Resultados Elecciones Locales;Número de votos;Censo;111240
+2023;5;Chamartín;Resultados Elecciones Locales;Número de votos;Ciudadanos;2684
+2023;5;Chamartín;Resultados Elecciones Locales;Número de votos;Más Madrid;9149
+2023;5;Chamartín;Resultados Elecciones Locales;Número de votos;Partido Popular;52846
+2023;5;Chamartín;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;7836
+2023;5;Chamartín;Resultados Elecciones Locales;Número de votos;Podemos-Izquierda Unida-Alianza Verde;1912
+2023;5;Chamartín;Resultados Elecciones Locales;Número de votos;VOX;8987
+2019;6;Tetuán;Resultados Elecciones Locales;Número de votos;Censo;112989
+2019;6;Tetuán;Resultados Elecciones Locales;Número de votos;Más Madrid;21319
+2019;6;Tetuán;Resultados Elecciones Locales;Número de votos;Partido Popular;19120
+2019;6;Tetuán;Resultados Elecciones Locales;Número de votos;Ciudadanos;13769
+2019;6;Tetuán;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;9544
+2019;6;Tetuán;Resultados Elecciones Locales;Número de votos;VOX;6283
+2023;6;Tetuán;Resultados Elecciones Locales;Número de votos;Censo;111546
+2023;6;Tetuán;Resultados Elecciones Locales;Número de votos;Ciudadanos;2058
+2023;6;Tetuán;Resultados Elecciones Locales;Número de votos;Más Madrid;13272
+2023;6;Tetuán;Resultados Elecciones Locales;Número de votos;Partido Popular;33867
+2023;6;Tetuán;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;11553
+2023;6;Tetuán;Resultados Elecciones Locales;Número de votos;Podemos-Izquierda Unida-Alianza Verde;3264
+2023;6;Tetuán;Resultados Elecciones Locales;Número de votos;VOX;7050
+2019;7;Chamberí;Resultados Elecciones Locales;Número de votos;Censo;110576
+2019;7;Chamberí;Resultados Elecciones Locales;Número de votos;Más Madrid;21582
+2019;7;Chamberí;Resultados Elecciones Locales;Número de votos;Partido Popular;28042
+2019;7;Chamberí;Resultados Elecciones Locales;Número de votos;Ciudadanos;16577
+2019;7;Chamberí;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;6217
+2019;7;Chamberí;Resultados Elecciones Locales;Número de votos;VOX;7183
+2023;7;Chamberí;Resultados Elecciones Locales;Número de votos;Censo;106803
+2023;7;Chamberí;Resultados Elecciones Locales;Número de votos;Ciudadanos;2558
+2023;7;Chamberí;Resultados Elecciones Locales;Número de votos;Más Madrid;11843
+2023;7;Chamberí;Resultados Elecciones Locales;Número de votos;Partido Popular;43718
+2023;7;Chamberí;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;8974
+2023;7;Chamberí;Resultados Elecciones Locales;Número de votos;Podemos-Izquierda Unida-Alianza Verde;2648
+2023;7;Chamberí;Resultados Elecciones Locales;Número de votos;VOX;7824
+2019;8;Fuencarral-El Pardo;Resultados Elecciones Locales;Número de votos;Censo;182995
+2019;8;Fuencarral-El Pardo;Resultados Elecciones Locales;Número de votos;Más Madrid;33954
+2019;8;Fuencarral-El Pardo;Resultados Elecciones Locales;Número de votos;Partido Popular;36871
+2019;8;Fuencarral-El Pardo;Resultados Elecciones Locales;Número de votos;Ciudadanos;31091
+2019;8;Fuencarral-El Pardo;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;15341
+2019;8;Fuencarral-El Pardo;Resultados Elecciones Locales;Número de votos;VOX;11852
+2023;8;Fuencarral-El Pardo;Resultados Elecciones Locales;Número de votos;Censo;183019
+2023;8;Fuencarral-El Pardo;Resultados Elecciones Locales;Número de votos;Ciudadanos;4698
+2023;8;Fuencarral-El Pardo;Resultados Elecciones Locales;Número de votos;Más Madrid;19095
+2023;8;Fuencarral-El Pardo;Resultados Elecciones Locales;Número de votos;Partido Popular;71365
+2023;8;Fuencarral-El Pardo;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;19892
+2023;8;Fuencarral-El Pardo;Resultados Elecciones Locales;Número de votos;Podemos-Izquierda Unida-Alianza Verde;4446
+2023;8;Fuencarral-El Pardo;Resultados Elecciones Locales;Número de votos;VOX;13722
+2019;9;Moncloa-Aravaca;Resultados Elecciones Locales;Número de votos;Censo;90595
+2019;9;Moncloa-Aravaca;Resultados Elecciones Locales;Número de votos;Más Madrid;18006
+2019;9;Moncloa-Aravaca;Resultados Elecciones Locales;Número de votos;Partido Popular;22102
+2019;9;Moncloa-Aravaca;Resultados Elecciones Locales;Número de votos;Ciudadanos;13513
+2019;9;Moncloa-Aravaca;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;5906
+2019;9;Moncloa-Aravaca;Resultados Elecciones Locales;Número de votos;VOX;5946
+2023;9;Moncloa-Aravaca;Resultados Elecciones Locales;Número de votos;Censo;91473
+2023;9;Moncloa-Aravaca;Resultados Elecciones Locales;Número de votos;Ciudadanos;2096
+2023;9;Moncloa-Aravaca;Resultados Elecciones Locales;Número de votos;Más Madrid;10521
+2023;9;Moncloa-Aravaca;Resultados Elecciones Locales;Número de votos;Partido Popular;36516
+2023;9;Moncloa-Aravaca;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;8408
+2023;9;Moncloa-Aravaca;Resultados Elecciones Locales;Número de votos;Podemos-Izquierda Unida-Alianza Verde;2516
+2023;9;Moncloa-Aravaca;Resultados Elecciones Locales;Número de votos;VOX;6977
+2019;10;Latina;Resultados Elecciones Locales;Número de votos;Censo;175624
+2019;10;Latina;Resultados Elecciones Locales;Número de votos;Más Madrid;36084
+2019;10;Latina;Resultados Elecciones Locales;Número de votos;Partido Popular;27145
+2019;10;Latina;Resultados Elecciones Locales;Número de votos;Ciudadanos;19357
+2019;10;Latina;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;19615
+2019;10;Latina;Resultados Elecciones Locales;Número de votos;VOX;8459
+2023;10;Latina;Resultados Elecciones Locales;Número de votos;Censo;172548
+2023;10;Latina;Resultados Elecciones Locales;Número de votos;Ciudadanos;2725
+2023;10;Latina;Resultados Elecciones Locales;Número de votos;Más Madrid;24351
+2023;10;Latina;Resultados Elecciones Locales;Número de votos;Partido Popular;45623
+2023;10;Latina;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;22562
+2023;10;Latina;Resultados Elecciones Locales;Número de votos;Podemos-Izquierda Unida-Alianza Verde;6871
+2023;10;Latina;Resultados Elecciones Locales;Número de votos;VOX;10177
+2019;11;Carabanchel;Resultados Elecciones Locales;Número de votos;Censo;172660
+2019;11;Carabanchel;Resultados Elecciones Locales;Número de votos;Más Madrid;35119
+2019;11;Carabanchel;Resultados Elecciones Locales;Número de votos;Partido Popular;21098
+2019;11;Carabanchel;Resultados Elecciones Locales;Número de votos;Ciudadanos;17546
+2019;11;Carabanchel;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;18738
+2019;11;Carabanchel;Resultados Elecciones Locales;Número de votos;VOX;7674
+2023;11;Carabanchel;Resultados Elecciones Locales;Número de votos;Censo;171771
+2023;11;Carabanchel;Resultados Elecciones Locales;Número de votos;Ciudadanos;2502
+2023;11;Carabanchel;Resultados Elecciones Locales;Número de votos;Más Madrid;23735
+2023;11;Carabanchel;Resultados Elecciones Locales;Número de votos;Partido Popular;39936
+2023;11;Carabanchel;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;21714
+2023;11;Carabanchel;Resultados Elecciones Locales;Número de votos;Podemos-Izquierda Unida-Alianza Verde;6014
+2023;11;Carabanchel;Resultados Elecciones Locales;Número de votos;VOX;9329
+2019;12;Usera;Resultados Elecciones Locales;Número de votos;Censo;90673
+2019;12;Usera;Resultados Elecciones Locales;Número de votos;Más Madrid;19146
+2019;12;Usera;Resultados Elecciones Locales;Número de votos;Partido Popular;8285
+2019;12;Usera;Resultados Elecciones Locales;Número de votos;Ciudadanos;7663
+2019;12;Usera;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;11189
+2019;12;Usera;Resultados Elecciones Locales;Número de votos;VOX;3331
+2023;12;Usera;Resultados Elecciones Locales;Número de votos;Censo;90259
+2023;12;Usera;Resultados Elecciones Locales;Número de votos;Ciudadanos;983
+2023;12;Usera;Resultados Elecciones Locales;Número de votos;Más Madrid;13658
+2023;12;Usera;Resultados Elecciones Locales;Número de votos;Partido Popular;17293
+2023;12;Usera;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;11587
+2023;12;Usera;Resultados Elecciones Locales;Número de votos;Podemos-Izquierda Unida-Alianza Verde;3050
+2023;12;Usera;Resultados Elecciones Locales;Número de votos;VOX;4634
+2019;13;Puente de Vallecas;Resultados Elecciones Locales;Número de votos;Censo;165323
+2019;13;Puente de Vallecas;Resultados Elecciones Locales;Número de votos;Más Madrid;38898
+2019;13;Puente de Vallecas;Resultados Elecciones Locales;Número de votos;Partido Popular;11571
+2019;13;Puente de Vallecas;Resultados Elecciones Locales;Número de votos;Ciudadanos;12082
+2019;13;Puente de Vallecas;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;22726
+2019;13;Puente de Vallecas;Resultados Elecciones Locales;Número de votos;VOX;5061
+2023;13;Puente de Vallecas;Resultados Elecciones Locales;Número de votos;Censo;162009
+2023;13;Puente de Vallecas;Resultados Elecciones Locales;Número de votos;Ciudadanos;1506
+2023;13;Puente de Vallecas;Resultados Elecciones Locales;Número de votos;Más Madrid;24472
+2023;13;Puente de Vallecas;Resultados Elecciones Locales;Número de votos;Partido Popular;25289
+2023;13;Puente de Vallecas;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;25112
+2023;13;Puente de Vallecas;Resultados Elecciones Locales;Número de votos;Podemos-Izquierda Unida-Alianza Verde;8491
+2023;13;Puente de Vallecas;Resultados Elecciones Locales;Número de votos;VOX;7454
+2019;14;Moratalaz;Resultados Elecciones Locales;Número de votos;Censo;75149
+2019;14;Moratalaz;Resultados Elecciones Locales;Número de votos;Más Madrid;17134
+2019;14;Moratalaz;Resultados Elecciones Locales;Número de votos;Partido Popular;11994
+2019;14;Moratalaz;Resultados Elecciones Locales;Número de votos;Ciudadanos;9104
+2019;14;Moratalaz;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;8119
+2019;14;Moratalaz;Resultados Elecciones Locales;Número de votos;VOX;3316
+2023;14;Moratalaz;Resultados Elecciones Locales;Número de votos;Censo;72381
+2023;14;Moratalaz;Resultados Elecciones Locales;Número de votos;Ciudadanos;1332
+2023;14;Moratalaz;Resultados Elecciones Locales;Número de votos;Más Madrid;9967
+2023;14;Moratalaz;Resultados Elecciones Locales;Número de votos;Partido Popular;20419
+2023;14;Moratalaz;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;10033
+2023;14;Moratalaz;Resultados Elecciones Locales;Número de votos;Podemos-Izquierda Unida-Alianza Verde;2807
+2023;14;Moratalaz;Resultados Elecciones Locales;Número de votos;VOX;4032
+2019;15;Ciudad Lineal;Resultados Elecciones Locales;Número de votos;Censo;161562
+2019;15;Ciudad Lineal;Resultados Elecciones Locales;Número de votos;Más Madrid;31072
+2019;15;Ciudad Lineal;Resultados Elecciones Locales;Número de votos;Partido Popular;28341
+2019;15;Ciudad Lineal;Resultados Elecciones Locales;Número de votos;Ciudadanos;21710
+2019;15;Ciudad Lineal;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;15006
+2019;15;Ciudad Lineal;Resultados Elecciones Locales;Número de votos;VOX;8142
+2023;15;Ciudad Lineal;Resultados Elecciones Locales;Número de votos;Censo;160964
+2023;15;Ciudad Lineal;Resultados Elecciones Locales;Número de votos;Ciudadanos;3425
+2023;15;Ciudad Lineal;Resultados Elecciones Locales;Número de votos;Más Madrid;18479
+2023;15;Ciudad Lineal;Resultados Elecciones Locales;Número de votos;Partido Popular;51315
+2023;15;Ciudad Lineal;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;18504
+2023;15;Ciudad Lineal;Resultados Elecciones Locales;Número de votos;Podemos-Izquierda Unida-Alianza Verde;5017
+2023;15;Ciudad Lineal;Resultados Elecciones Locales;Número de votos;VOX;9882
+2019;16;Hortaleza;Resultados Elecciones Locales;Número de votos;Censo;138606
+2019;16;Hortaleza;Resultados Elecciones Locales;Número de votos;Más Madrid;26202
+2019;16;Hortaleza;Resultados Elecciones Locales;Número de votos;Partido Popular;23956
+2019;16;Hortaleza;Resultados Elecciones Locales;Número de votos;Ciudadanos;24849
+2019;16;Hortaleza;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;12633
+2019;16;Hortaleza;Resultados Elecciones Locales;Número de votos;VOX;8315
+2023;16;Hortaleza;Resultados Elecciones Locales;Número de votos;Censo;142990
+2023;16;Hortaleza;Resultados Elecciones Locales;Número de votos;Ciudadanos;3739
+2023;16;Hortaleza;Resultados Elecciones Locales;Número de votos;Más Madrid;15647
+2023;16;Hortaleza;Resultados Elecciones Locales;Número de votos;Partido Popular;53525
+2023;16;Hortaleza;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;15306
+2023;16;Hortaleza;Resultados Elecciones Locales;Número de votos;Podemos-Izquierda Unida-Alianza Verde;3558
+2023;16;Hortaleza;Resultados Elecciones Locales;Número de votos;VOX;9953
+2019;17;Villaverde;Resultados Elecciones Locales;Número de votos;Censo;98996
+2019;17;Villaverde;Resultados Elecciones Locales;Número de votos;Más Madrid;20050
+2019;17;Villaverde;Resultados Elecciones Locales;Número de votos;Partido Popular;9123
+2019;17;Villaverde;Resultados Elecciones Locales;Número de votos;Ciudadanos;9023
+2019;17;Villaverde;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;13968
+2019;17;Villaverde;Resultados Elecciones Locales;Número de votos;VOX;3898
+2023;17;Villaverde;Resultados Elecciones Locales;Número de votos;Censo;101377
+2023;17;Villaverde;Resultados Elecciones Locales;Número de votos;Ciudadanos;1273
+2023;17;Villaverde;Resultados Elecciones Locales;Número de votos;Más Madrid;13821
+2023;17;Villaverde;Resultados Elecciones Locales;Número de votos;Partido Popular;19409
+2023;17;Villaverde;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;15444
+2023;17;Villaverde;Resultados Elecciones Locales;Número de votos;Podemos-Izquierda Unida-Alianza Verde;3546
+2023;17;Villaverde;Resultados Elecciones Locales;Número de votos;VOX;5327
+2019;18;Villa de Vallecas;Resultados Elecciones Locales;Número de votos;Censo;77371
+2019;18;Villa de Vallecas;Resultados Elecciones Locales;Número de votos;Más Madrid;19896
+2019;18;Villa de Vallecas;Resultados Elecciones Locales;Número de votos;Partido Popular;6265
+2019;18;Villa de Vallecas;Resultados Elecciones Locales;Número de votos;Ciudadanos;9496
+2019;18;Villa de Vallecas;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;8623
+2019;18;Villa de Vallecas;Resultados Elecciones Locales;Número de votos;VOX;3267
+2023;18;Villa de Vallecas;Resultados Elecciones Locales;Número de votos;Censo;79736
+2023;18;Villa de Vallecas;Resultados Elecciones Locales;Número de votos;Ciudadanos;1383
+2023;18;Villa de Vallecas;Resultados Elecciones Locales;Número de votos;Más Madrid;13283
+2023;18;Villa de Vallecas;Resultados Elecciones Locales;Número de votos;Partido Popular;17625
+2023;18;Villa de Vallecas;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;10804
+2023;18;Villa de Vallecas;Resultados Elecciones Locales;Número de votos;Podemos-Izquierda Unida-Alianza Verde;3276
+2023;18;Villa de Vallecas;Resultados Elecciones Locales;Número de votos;VOX;4551
+2019;19;Vicálvaro;Resultados Elecciones Locales;Número de votos;Censo;50813
+2019;19;Vicálvaro;Resultados Elecciones Locales;Número de votos;Más Madrid;12585
+2019;19;Vicálvaro;Resultados Elecciones Locales;Número de votos;Partido Popular;4722
+2019;19;Vicálvaro;Resultados Elecciones Locales;Número de votos;Ciudadanos;6611
+2019;19;Vicálvaro;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;6374
+2019;19;Vicálvaro;Resultados Elecciones Locales;Número de votos;VOX;2200
+2023;19;Vicálvaro;Resultados Elecciones Locales;Número de votos;Censo;58798
+2023;19;Vicálvaro;Resultados Elecciones Locales;Número de votos;Ciudadanos;1364
+2023;19;Vicálvaro;Resultados Elecciones Locales;Número de votos;Más Madrid;9577
+2023;19;Vicálvaro;Resultados Elecciones Locales;Número de votos;Partido Popular;14722
+2023;19;Vicálvaro;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;8199
+2023;19;Vicálvaro;Resultados Elecciones Locales;Número de votos;Podemos-Izquierda Unida-Alianza Verde;2114
+2023;19;Vicálvaro;Resultados Elecciones Locales;Número de votos;VOX;3446
+2019;20;San Blas-Canillejas;Resultados Elecciones Locales;Número de votos;Censo;115712
+2019;20;San Blas-Canillejas;Resultados Elecciones Locales;Número de votos;Más Madrid;25109
+2019;20;San Blas-Canillejas;Resultados Elecciones Locales;Número de votos;Partido Popular;13339
+2019;20;San Blas-Canillejas;Resultados Elecciones Locales;Número de votos;Ciudadanos;15543
+2019;20;San Blas-Canillejas;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;13213
+2019;20;San Blas-Canillejas;Resultados Elecciones Locales;Número de votos;VOX;5311
+2023;20;San Blas-Canillejas;Resultados Elecciones Locales;Número de votos;Censo;115873
+2023;20;San Blas-Canillejas;Resultados Elecciones Locales;Número de votos;Ciudadanos;2246
+2023;20;San Blas-Canillejas;Resultados Elecciones Locales;Número de votos;Más Madrid;14885
+2023;20;San Blas-Canillejas;Resultados Elecciones Locales;Número de votos;Partido Popular;31380
+2023;20;San Blas-Canillejas;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;15470
+2023;20;San Blas-Canillejas;Resultados Elecciones Locales;Número de votos;Podemos-Izquierda Unida-Alianza Verde;4010
+2023;20;San Blas-Canillejas;Resultados Elecciones Locales;Número de votos;VOX;6892
+2019;21;Barajas;Resultados Elecciones Locales;Número de votos;Censo;35916
+2019;21;Barajas;Resultados Elecciones Locales;Número de votos;Más Madrid;7411
+2019;21;Barajas;Resultados Elecciones Locales;Número de votos;Partido Popular;5954
+2019;21;Barajas;Resultados Elecciones Locales;Número de votos;Ciudadanos;6656
+2019;21;Barajas;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;3124
+2019;21;Barajas;Resultados Elecciones Locales;Número de votos;VOX;2256
+2023;21;Barajas;Resultados Elecciones Locales;Número de votos;Censo;35989
+2023;21;Barajas;Resultados Elecciones Locales;Número de votos;Ciudadanos;1016
+2023;21;Barajas;Resultados Elecciones Locales;Número de votos;Más Madrid;4105
+2023;21;Barajas;Resultados Elecciones Locales;Número de votos;Partido Popular;13090
+2023;21;Barajas;Resultados Elecciones Locales;Número de votos;Partido Socialista Obrero Español;3987
+2023;21;Barajas;Resultados Elecciones Locales;Número de votos;Podemos-Izquierda Unida-Alianza Verde;947
+2023;21;Barajas;Resultados Elecciones Locales;Número de votos;VOX;2498

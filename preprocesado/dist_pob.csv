@@ -1,0 +1,316 @@
+YEAR;cod_distrito;distrito;indicador_nivel1;indicador_nivel2;valor_indicador
+2019;1;CENTRO;Número de Habitantes;TOTAL;134881
+2019;1;CENTRO;Número de Habitantes;Hombres;67829
+2019;1;CENTRO;Número de Habitantes;Mujeres;67052
+2020;1;CENTRO;Número de Habitantes;TOTAL;142033
+2020;1;CENTRO;Número de Habitantes;Hombres;72294
+2020;1;CENTRO;Número de Habitantes;Mujeres;69739
+2021;1;CENTRO;Número de Habitantes;TOTAL;142033
+2021;1;CENTRO;Número de Habitantes;Hombres;72294
+2021;1;CENTRO;Número de Habitantes;Mujeres;69739
+2022;1;CENTRO;Número de Habitantes;TOTAL;139682
+2022;1;CENTRO;Número de Habitantes;Hombres;70986
+2022;1;CENTRO;Número de Habitantes;Mujeres;68696
+2023;1;CENTRO;Número de Habitantes;TOTAL;139687
+2023;1;CENTRO;Número de Habitantes;Hombres;70770
+2023;1;CENTRO;Número de Habitantes;Mujeres;68917
+2019;2;ARGANZUELA;Número de Habitantes;TOTAL;153830
+2019;2;ARGANZUELA;Número de Habitantes;Hombres;71631
+2019;2;ARGANZUELA;Número de Habitantes;Mujeres;82199
+2020;2;ARGANZUELA;Número de Habitantes;TOTAL;154992
+2020;2;ARGANZUELA;Número de Habitantes;Hombres;72355
+2020;2;ARGANZUELA;Número de Habitantes;Mujeres;82637
+2021;2;ARGANZUELA;Número de Habitantes;TOTAL;154992
+2021;2;ARGANZUELA;Número de Habitantes;Hombres;72355
+2021;2;ARGANZUELA;Número de Habitantes;Mujeres;82637
+2022;2;ARGANZUELA;Número de Habitantes;TOTAL;152638
+2022;2;ARGANZUELA;Número de Habitantes;Hombres;71466
+2022;2;ARGANZUELA;Número de Habitantes;Mujeres;81172
+2023;2;ARGANZUELA;Número de Habitantes;TOTAL;153304
+2023;2;ARGANZUELA;Número de Habitantes;Hombres;71754
+2023;2;ARGANZUELA;Número de Habitantes;Mujeres;81550
+2019;3;RETIRO;Número de Habitantes;TOTAL;119379
+2019;3;RETIRO;Número de Habitantes;Hombres;54098
+2019;3;RETIRO;Número de Habitantes;Mujeres;65281
+2020;3;RETIRO;Número de Habitantes;TOTAL;119092
+2020;3;RETIRO;Número de Habitantes;Hombres;54060
+2020;3;RETIRO;Número de Habitantes;Mujeres;65032
+2021;3;RETIRO;Número de Habitantes;TOTAL;119092
+2021;3;RETIRO;Número de Habitantes;Hombres;54060
+2021;3;RETIRO;Número de Habitantes;Mujeres;65032
+2022;3;RETIRO;Número de Habitantes;TOTAL;117672
+2022;3;RETIRO;Número de Habitantes;Hombres;53445
+2022;3;RETIRO;Número de Habitantes;Mujeres;64227
+2023;3;RETIRO;Número de Habitantes;TOTAL;117918
+2023;3;RETIRO;Número de Habitantes;Hombres;53458
+2023;3;RETIRO;Número de Habitantes;Mujeres;64460
+2019;4;SALAMANCA;Número de Habitantes;TOTAL;146148
+2019;4;SALAMANCA;Número de Habitantes;Hombres;64395
+2019;4;SALAMANCA;Número de Habitantes;Mujeres;81753
+2020;4;SALAMANCA;Número de Habitantes;TOTAL;146667
+2020;4;SALAMANCA;Número de Habitantes;Hombres;64836
+2020;4;SALAMANCA;Número de Habitantes;Mujeres;81831
+2021;4;SALAMANCA;Número de Habitantes;TOTAL;146667
+2021;4;SALAMANCA;Número de Habitantes;Hombres;64836
+2021;4;SALAMANCA;Número de Habitantes;Mujeres;81831
+2022;4;SALAMANCA;Número de Habitantes;TOTAL;145457
+2022;4;SALAMANCA;Número de Habitantes;Hombres;64343
+2022;4;SALAMANCA;Número de Habitantes;Mujeres;81114
+2023;4;SALAMANCA;Número de Habitantes;TOTAL;145702
+2023;4;SALAMANCA;Número de Habitantes;Hombres;64452
+2023;4;SALAMANCA;Número de Habitantes;Mujeres;81250
+2019;5;CHAMARTIN;Número de Habitantes;TOTAL;145865
+2019;5;CHAMARTIN;Número de Habitantes;Hombres;65565
+2019;5;CHAMARTIN;Número de Habitantes;Mujeres;80300
+2020;5;CHAMARTIN;Número de Habitantes;TOTAL;146336
+2020;5;CHAMARTIN;Número de Habitantes;Hombres;65901
+2020;5;CHAMARTIN;Número de Habitantes;Mujeres;80435
+2021;5;CHAMARTIN;Número de Habitantes;TOTAL;146336
+2021;5;CHAMARTIN;Número de Habitantes;Hombres;65901
+2021;5;CHAMARTIN;Número de Habitantes;Mujeres;80435
+2022;5;CHAMARTIN;Número de Habitantes;TOTAL;144371
+2022;5;CHAMARTIN;Número de Habitantes;Hombres;65080
+2022;5;CHAMARTIN;Número de Habitantes;Mujeres;79291
+2023;5;CHAMARTIN;Número de Habitantes;TOTAL;144796
+2023;5;CHAMARTIN;Número de Habitantes;Hombres;65245
+2023;5;CHAMARTIN;Número de Habitantes;Mujeres;79551
+2019;6;TETUAN;Número de Habitantes;TOTAL;157937
+2019;6;TETUAN;Número de Habitantes;Hombres;71632
+2019;6;TETUAN;Número de Habitantes;Mujeres;86305
+2020;6;TETUAN;Número de Habitantes;TOTAL;160615
+2020;6;TETUAN;Número de Habitantes;Hombres;73109
+2020;6;TETUAN;Número de Habitantes;Mujeres;87506
+2021;6;TETUAN;Número de Habitantes;TOTAL;160615
+2021;6;TETUAN;Número de Habitantes;Hombres;73109
+2021;6;TETUAN;Número de Habitantes;Mujeres;87506
+2022;6;TETUAN;Número de Habitantes;TOTAL;157433
+2022;6;TETUAN;Número de Habitantes;Hombres;71636
+2022;6;TETUAN;Número de Habitantes;Mujeres;85797
+2023;6;TETUAN;Número de Habitantes;TOTAL;160002
+2023;6;TETUAN;Número de Habitantes;Hombres;72938
+2023;6;TETUAN;Número de Habitantes;Mujeres;87064
+2019;7;CHAMBERI;Número de Habitantes;TOTAL;139448
+2019;7;CHAMBERI;Número de Habitantes;Hombres;61308
+2019;7;CHAMBERI;Número de Habitantes;Mujeres;78140
+2020;7;CHAMBERI;Número de Habitantes;TOTAL;139391
+2020;7;CHAMBERI;Número de Habitantes;Hombres;61649
+2020;7;CHAMBERI;Número de Habitantes;Mujeres;77742
+2021;7;CHAMBERI;Número de Habitantes;TOTAL;139391
+2021;7;CHAMBERI;Número de Habitantes;Hombres;61649
+2021;7;CHAMBERI;Número de Habitantes;Mujeres;77742
+2022;7;CHAMBERI;Número de Habitantes;TOTAL;137287
+2022;7;CHAMBERI;Número de Habitantes;Hombres;60867
+2022;7;CHAMBERI;Número de Habitantes;Mujeres;76420
+2023;7;CHAMBERI;Número de Habitantes;TOTAL;138204
+2023;7;CHAMBERI;Número de Habitantes;Hombres;61149
+2023;7;CHAMBERI;Número de Habitantes;Mujeres;77055
+2019;8;FUENCARRAL-EL PARDO;Número de Habitantes;TOTAL;246021
+2019;8;FUENCARRAL-EL PARDO;Número de Habitantes;Hombres;115797
+2019;8;FUENCARRAL-EL PARDO;Número de Habitantes;Mujeres;130224
+2020;8;FUENCARRAL-EL PARDO;Número de Habitantes;TOTAL;248684
+2020;8;FUENCARRAL-EL PARDO;Número de Habitantes;Hombres;117006
+2020;8;FUENCARRAL-EL PARDO;Número de Habitantes;Mujeres;131678
+2021;8;FUENCARRAL-EL PARDO;Número de Habitantes;TOTAL;248684
+2021;8;FUENCARRAL-EL PARDO;Número de Habitantes;Hombres;117006
+2021;8;FUENCARRAL-EL PARDO;Número de Habitantes;Mujeres;131678
+2022;8;FUENCARRAL-EL PARDO;Número de Habitantes;TOTAL;246281
+2022;8;FUENCARRAL-EL PARDO;Número de Habitantes;Hombres;115955
+2022;8;FUENCARRAL-EL PARDO;Número de Habitantes;Mujeres;130326
+2023;8;FUENCARRAL-EL PARDO;Número de Habitantes;TOTAL;248443
+2023;8;FUENCARRAL-EL PARDO;Número de Habitantes;Hombres;116944
+2023;8;FUENCARRAL-EL PARDO;Número de Habitantes;Mujeres;131499
+2019;9;MONCLOA-ARAVACA;Número de Habitantes;TOTAL;119423
+2019;9;MONCLOA-ARAVACA;Número de Habitantes;Hombres;54934
+2019;9;MONCLOA-ARAVACA;Número de Habitantes;Mujeres;64489
+2020;9;MONCLOA-ARAVACA;Número de Habitantes;TOTAL;121368
+2020;9;MONCLOA-ARAVACA;Número de Habitantes;Hombres;55867
+2020;9;MONCLOA-ARAVACA;Número de Habitantes;Mujeres;65501
+2021;9;MONCLOA-ARAVACA;Número de Habitantes;TOTAL;121368
+2021;9;MONCLOA-ARAVACA;Número de Habitantes;Hombres;55867
+2021;9;MONCLOA-ARAVACA;Número de Habitantes;Mujeres;65501
+2022;9;MONCLOA-ARAVACA;Número de Habitantes;TOTAL;120360
+2022;9;MONCLOA-ARAVACA;Número de Habitantes;Hombres;55501
+2022;9;MONCLOA-ARAVACA;Número de Habitantes;Mujeres;64859
+2023;9;MONCLOA-ARAVACA;Número de Habitantes;TOTAL;121757
+2023;9;MONCLOA-ARAVACA;Número de Habitantes;Hombres;56357
+2023;9;MONCLOA-ARAVACA;Número de Habitantes;Mujeres;65400
+2019;10;LATINA;Número de Habitantes;TOTAL;238154
+2019;10;LATINA;Número de Habitantes;Hombres;110401
+2019;10;LATINA;Número de Habitantes;Mujeres;127753
+2020;10;LATINA;Número de Habitantes;TOTAL;241144
+2020;10;LATINA;Número de Habitantes;Hombres;111708
+2020;10;LATINA;Número de Habitantes;Mujeres;129436
+2021;10;LATINA;Número de Habitantes;TOTAL;241144
+2021;10;LATINA;Número de Habitantes;Hombres;111708
+2021;10;LATINA;Número de Habitantes;Mujeres;129436
+2022;10;LATINA;Número de Habitantes;TOTAL;237048
+2022;10;LATINA;Número de Habitantes;Hombres;109928
+2022;10;LATINA;Número de Habitantes;Mujeres;127120
+2023;10;LATINA;Número de Habitantes;TOTAL;241672
+2023;10;LATINA;Número de Habitantes;Hombres;112093
+2023;10;LATINA;Número de Habitantes;Mujeres;129579
+2019;11;CARABANCHEL;Número de Habitantes;TOTAL;253040
+2019;11;CARABANCHEL;Número de Habitantes;Hombres;117802
+2019;11;CARABANCHEL;Número de Habitantes;Mujeres;135238
+2020;11;CARABANCHEL;Número de Habitantes;TOTAL;259757
+2020;11;CARABANCHEL;Número de Habitantes;Hombres;121138
+2020;11;CARABANCHEL;Número de Habitantes;Mujeres;138619
+2021;11;CARABANCHEL;Número de Habitantes;TOTAL;259757
+2021;11;CARABANCHEL;Número de Habitantes;Hombres;121138
+2021;11;CARABANCHEL;Número de Habitantes;Mujeres;138619
+2022;11;CARABANCHEL;Número de Habitantes;TOTAL;255514
+2022;11;CARABANCHEL;Número de Habitantes;Hombres;119381
+2022;11;CARABANCHEL;Número de Habitantes;Mujeres;136133
+2023;11;CARABANCHEL;Número de Habitantes;TOTAL;262339
+2023;11;CARABANCHEL;Número de Habitantes;Hombres;122632
+2023;11;CARABANCHEL;Número de Habitantes;Mujeres;139707
+2019;12;USERA;Número de Habitantes;TOTAL;139501
+2019;12;USERA;Número de Habitantes;Hombres;65781
+2019;12;USERA;Número de Habitantes;Mujeres;73720
+2020;12;USERA;Número de Habitantes;TOTAL;143087
+2020;12;USERA;Número de Habitantes;Hombres;67514
+2020;12;USERA;Número de Habitantes;Mujeres;75573
+2021;12;USERA;Número de Habitantes;TOTAL;143087
+2021;12;USERA;Número de Habitantes;Hombres;67514
+2021;12;USERA;Número de Habitantes;Mujeres;75573
+2022;12;USERA;Número de Habitantes;TOTAL;140808
+2022;12;USERA;Número de Habitantes;Hombres;66532
+2022;12;USERA;Número de Habitantes;Mujeres;74276
+2023;12;USERA;Número de Habitantes;TOTAL;142746
+2023;12;USERA;Número de Habitantes;Hombres;67538
+2023;12;USERA;Número de Habitantes;Mujeres;75208
+2019;13;PUENTE DE VALLECAS;Número de Habitantes;TOTAL;234770
+2019;13;PUENTE DE VALLECAS;Número de Habitantes;Hombres;111183
+2019;13;PUENTE DE VALLECAS;Número de Habitantes;Mujeres;123587
+2020;13;PUENTE DE VALLECAS;Número de Habitantes;TOTAL;240067
+2020;13;PUENTE DE VALLECAS;Número de Habitantes;Hombres;113828
+2020;13;PUENTE DE VALLECAS;Número de Habitantes;Mujeres;126239
+2021;13;PUENTE DE VALLECAS;Número de Habitantes;TOTAL;240067
+2021;13;PUENTE DE VALLECAS;Número de Habitantes;Hombres;113828
+2021;13;PUENTE DE VALLECAS;Número de Habitantes;Mujeres;126239
+2022;13;PUENTE DE VALLECAS;Número de Habitantes;TOTAL;235638
+2022;13;PUENTE DE VALLECAS;Número de Habitantes;Hombres;111748
+2022;13;PUENTE DE VALLECAS;Número de Habitantes;Mujeres;123890
+2023;13;PUENTE DE VALLECAS;Número de Habitantes;TOTAL;241603
+2023;13;PUENTE DE VALLECAS;Número de Habitantes;Hombres;114542
+2023;13;PUENTE DE VALLECAS;Número de Habitantes;Mujeres;127061
+2019;14;MORATALAZ;Número de Habitantes;TOTAL;94609
+2019;14;MORATALAZ;Número de Habitantes;Hombres;43209
+2019;14;MORATALAZ;Número de Habitantes;Mujeres;51400
+2020;14;MORATALAZ;Número de Habitantes;TOTAL;94203
+2020;14;MORATALAZ;Número de Habitantes;Hombres;42858
+2020;14;MORATALAZ;Número de Habitantes;Mujeres;51345
+2021;14;MORATALAZ;Número de Habitantes;TOTAL;94203
+2021;14;MORATALAZ;Número de Habitantes;Hombres;42858
+2021;14;MORATALAZ;Número de Habitantes;Mujeres;51345
+2022;14;MORATALAZ;Número de Habitantes;TOTAL;92390
+2022;14;MORATALAZ;Número de Habitantes;Hombres;42095
+2022;14;MORATALAZ;Número de Habitantes;Mujeres;50295
+2023;14;MORATALAZ;Número de Habitantes;TOTAL;92814
+2023;14;MORATALAZ;Número de Habitantes;Hombres;42212
+2023;14;MORATALAZ;Número de Habitantes;Mujeres;50602
+2019;15;CIUDAD LINEAL;Número de Habitantes;TOTAL;216270
+2019;15;CIUDAD LINEAL;Número de Habitantes;Hombres;98370
+2019;15;CIUDAD LINEAL;Número de Habitantes;Mujeres;117900
+2020;15;CIUDAD LINEAL;Número de Habitantes;TOTAL;217816
+2020;15;CIUDAD LINEAL;Número de Habitantes;Hombres;99004
+2020;15;CIUDAD LINEAL;Número de Habitantes;Mujeres;118812
+2021;15;CIUDAD LINEAL;Número de Habitantes;TOTAL;217816
+2021;15;CIUDAD LINEAL;Número de Habitantes;Hombres;99004
+2021;15;CIUDAD LINEAL;Número de Habitantes;Mujeres;118812
+2022;15;CIUDAD LINEAL;Número de Habitantes;TOTAL;213905
+2022;15;CIUDAD LINEAL;Número de Habitantes;Hombres;97357
+2022;15;CIUDAD LINEAL;Número de Habitantes;Mujeres;116548
+2023;15;CIUDAD LINEAL;Número de Habitantes;TOTAL;220345
+2023;15;CIUDAD LINEAL;Número de Habitantes;Hombres;100759
+2023;15;CIUDAD LINEAL;Número de Habitantes;Mujeres;119586
+2019;16;HORTALEZA;Número de Habitantes;TOTAL;188267
+2019;16;HORTALEZA;Número de Habitantes;Hombres;89307
+2019;16;HORTALEZA;Número de Habitantes;Mujeres;98960
+2020;16;HORTALEZA;Número de Habitantes;TOTAL;193910
+2020;16;HORTALEZA;Número de Habitantes;Hombres;91939
+2020;16;HORTALEZA;Número de Habitantes;Mujeres;101971
+2021;16;HORTALEZA;Número de Habitantes;TOTAL;193910
+2021;16;HORTALEZA;Número de Habitantes;Hombres;91939
+2021;16;HORTALEZA;Número de Habitantes;Mujeres;101971
+2022;16;HORTALEZA;Número de Habitantes;TOTAL;195017
+2022;16;HORTALEZA;Número de Habitantes;Hombres;92532
+2022;16;HORTALEZA;Número de Habitantes;Mujeres;102485
+2023;16;HORTALEZA;Número de Habitantes;TOTAL;198391
+2023;16;HORTALEZA;Número de Habitantes;Hombres;94100
+2023;16;HORTALEZA;Número de Habitantes;Mujeres;104291
+2019;17;VILLAVERDE;Número de Habitantes;TOTAL;148883
+2019;17;VILLAVERDE;Número de Habitantes;Hombres;71017
+2019;17;VILLAVERDE;Número de Habitantes;Mujeres;77866
+2020;17;VILLAVERDE;Número de Habitantes;TOTAL;155450
+2020;17;VILLAVERDE;Número de Habitantes;Hombres;74242
+2020;17;VILLAVERDE;Número de Habitantes;Mujeres;81208
+2021;17;VILLAVERDE;Número de Habitantes;TOTAL;155450
+2021;17;VILLAVERDE;Número de Habitantes;Hombres;74242
+2021;17;VILLAVERDE;Número de Habitantes;Mujeres;81208
+2022;17;VILLAVERDE;Número de Habitantes;TOTAL;153829
+2022;17;VILLAVERDE;Número de Habitantes;Hombres;73598
+2022;17;VILLAVERDE;Número de Habitantes;Mujeres;80231
+2023;17;VILLAVERDE;Número de Habitantes;TOTAL;159038
+2023;17;VILLAVERDE;Número de Habitantes;Hombres;76131
+2023;17;VILLAVERDE;Número de Habitantes;Mujeres;82907
+2019;18;VILLA DE VALLECAS;Número de Habitantes;TOTAL;110436
+2019;18;VILLA DE VALLECAS;Número de Habitantes;Hombres;53675
+2019;18;VILLA DE VALLECAS;Número de Habitantes;Mujeres;56761
+2020;18;VILLA DE VALLECAS;Número de Habitantes;TOTAL;115175
+2020;18;VILLA DE VALLECAS;Número de Habitantes;Hombres;55836
+2020;18;VILLA DE VALLECAS;Número de Habitantes;Mujeres;59339
+2021;18;VILLA DE VALLECAS;Número de Habitantes;TOTAL;115175
+2021;18;VILLA DE VALLECAS;Número de Habitantes;Hombres;55836
+2021;18;VILLA DE VALLECAS;Número de Habitantes;Mujeres;59339
+2022;18;VILLA DE VALLECAS;Número de Habitantes;TOTAL;114817
+2022;18;VILLA DE VALLECAS;Número de Habitantes;Hombres;55580
+2022;18;VILLA DE VALLECAS;Número de Habitantes;Mujeres;59237
+2023;18;VILLA DE VALLECAS;Número de Habitantes;TOTAL;117501
+2023;18;VILLA DE VALLECAS;Número de Habitantes;Hombres;56726
+2023;18;VILLA DE VALLECAS;Número de Habitantes;Mujeres;60775
+2019;19;VICALVARO;Número de Habitantes;TOTAL;72126
+2019;19;VICALVARO;Número de Habitantes;Hombres;34848
+2019;19;VICALVARO;Número de Habitantes;Mujeres;37278
+2020;19;VICALVARO;Número de Habitantes;TOTAL;75732
+2020;19;VICALVARO;Número de Habitantes;Hombres;36618
+2020;19;VICALVARO;Número de Habitantes;Mujeres;39114
+2021;19;VICALVARO;Número de Habitantes;TOTAL;75732
+2021;19;VICALVARO;Número de Habitantes;Hombres;36618
+2021;19;VICALVARO;Número de Habitantes;Mujeres;39114
+2022;19;VICALVARO;Número de Habitantes;TOTAL;79328
+2022;19;VICALVARO;Número de Habitantes;Hombres;38437
+2022;19;VICALVARO;Número de Habitantes;Mujeres;40891
+2023;19;VICALVARO;Número de Habitantes;TOTAL;83804
+2023;19;VICALVARO;Número de Habitantes;Hombres;40580
+2023;19;VICALVARO;Número de Habitantes;Mujeres;43224
+2019;20;SAN BLAS-CANILLEJAS;Número de Habitantes;TOTAL;158166
+2019;20;SAN BLAS-CANILLEJAS;Número de Habitantes;Hombres;74743
+2019;20;SAN BLAS-CANILLEJAS;Número de Habitantes;Mujeres;83423
+2020;20;SAN BLAS-CANILLEJAS;Número de Habitantes;TOTAL;160951
+2020;20;SAN BLAS-CANILLEJAS;Número de Habitantes;Hombres;76150
+2020;20;SAN BLAS-CANILLEJAS;Número de Habitantes;Mujeres;84801
+2021;20;SAN BLAS-CANILLEJAS;Número de Habitantes;TOTAL;160951
+2021;20;SAN BLAS-CANILLEJAS;Número de Habitantes;Hombres;76150
+2021;20;SAN BLAS-CANILLEJAS;Número de Habitantes;Mujeres;84801
+2022;20;SAN BLAS-CANILLEJAS;Número de Habitantes;TOTAL;158783
+2022;20;SAN BLAS-CANILLEJAS;Número de Habitantes;Hombres;75082
+2022;20;SAN BLAS-CANILLEJAS;Número de Habitantes;Mujeres;83701
+2023;20;SAN BLAS-CANILLEJAS;Número de Habitantes;TOTAL;161219
+2023;20;SAN BLAS-CANILLEJAS;Número de Habitantes;Hombres;76154
+2023;20;SAN BLAS-CANILLEJAS;Número de Habitantes;Mujeres;85065
+2019;21;BARAJAS;Número de Habitantes;TOTAL;48972
+2019;21;BARAJAS;Número de Habitantes;Hombres;23653
+2019;21;BARAJAS;Número de Habitantes;Mujeres;25319
+2020;21;BARAJAS;Número de Habitantes;TOTAL;50271
+2020;21;BARAJAS;Número de Habitantes;Hombres;24262
+2020;21;BARAJAS;Número de Habitantes;Mujeres;26009
+2021;21;BARAJAS;Número de Habitantes;TOTAL;50271
+2021;21;BARAJAS;Número de Habitantes;Hombres;24262
+2021;21;BARAJAS;Número de Habitantes;Mujeres;26009
+2022;21;BARAJAS;Número de Habitantes;TOTAL;48404
+2022;21;BARAJAS;Número de Habitantes;Hombres;23275
+2022;21;BARAJAS;Número de Habitantes;Mujeres;25129
+2023;21;BARAJAS;Número de Habitantes;TOTAL;48646
+2023;21;BARAJAS;Número de Habitantes;Hombres;23332
+2023;21;BARAJAS;Número de Habitantes;Mujeres;25314

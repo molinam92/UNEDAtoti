@@ -1,0 +1,274 @@
+YEAR;cod_distrito;distrito;indicador_nivel2;porcentaje
+2019;1;Centro;Censo;100.0
+2019;1;Centro;Más Madrid;32.79
+2019;1;Centro;Partido Popular;11.51
+2019;1;Centro;Ciudadanos;8.95
+2019;1;Centro;Partido Socialista Obrero Español;6.14
+2019;1;Centro;VOX;3.67
+2023;1;Centro;Censo;100.0
+2023;1;Centro;Ciudadanos;1.87
+2023;1;Centro;Más Madrid;21.18
+2023;1;Centro;Partido Popular;21.36
+2023;1;Centro;Partido Socialista Obrero Español;9.44
+2023;1;Centro;Podemos-Izquierda Unida-Alianza Verde;5.73
+2023;1;Centro;VOX;4.26
+2019;2;Arganzuela;Censo;100.0
+2019;2;Arganzuela;Más Madrid;28.96
+2019;2;Arganzuela;Partido Popular;15.59
+2019;2;Arganzuela;Ciudadanos;13.86
+2019;2;Arganzuela;Partido Socialista Obrero Español;7.83
+2019;2;Arganzuela;VOX;4.77
+2023;2;Arganzuela;Censo;100.0
+2023;2;Arganzuela;Ciudadanos;2.54
+2023;2;Arganzuela;Más Madrid;19.05
+2023;2;Arganzuela;Partido Popular;29.38
+2023;2;Arganzuela;Partido Socialista Obrero Español;11.39
+2023;2;Arganzuela;Podemos-Izquierda Unida-Alianza Verde;4.86
+2023;2;Arganzuela;VOX;5.33
+2019;3;Retiro;Censo;100.0
+2019;3;Retiro;Más Madrid;21.38
+2019;3;Retiro;Partido Popular;23.7
+2019;3;Retiro;Ciudadanos;16.01
+2019;3;Retiro;Partido Socialista Obrero Español;6.46
+2019;3;Retiro;VOX;6.45
+2023;3;Retiro;Censo;100.0
+2023;3;Retiro;Ciudadanos;2.63
+2023;3;Retiro;Más Madrid;12.68
+2023;3;Retiro;Partido Popular;39.78
+2023;3;Retiro;Partido Socialista Obrero Español;9.5
+2023;3;Retiro;Podemos-Izquierda Unida-Alianza Verde;2.75
+2023;3;Retiro;VOX;7.3
+2019;4;Salamanca;Censo;100.0
+2019;4;Salamanca;Más Madrid;14.82
+2019;4;Salamanca;Partido Popular;27.82
+2019;4;Salamanca;Ciudadanos;15.6
+2019;4;Salamanca;Partido Socialista Obrero Español;5.36
+2019;4;Salamanca;VOX;7.65
+2023;4;Salamanca;Censo;100.0
+2023;4;Salamanca;Ciudadanos;2.35
+2023;4;Salamanca;Más Madrid;8.17
+2023;4;Salamanca;Partido Popular;44.78
+2023;4;Salamanca;Partido Socialista Obrero Español;7.21
+2023;4;Salamanca;Podemos-Izquierda Unida-Alianza Verde;1.7
+2023;4;Salamanca;VOX;8.28
+2019;5;Chamartín;Censo;100.0
+2019;5;Chamartín;Más Madrid;14.86
+2019;5;Chamartín;Partido Popular;29.07
+2019;5;Chamartín;Ciudadanos;17.03
+2019;5;Chamartín;Partido Socialista Obrero Español;5.24
+2019;5;Chamartín;VOX;7.26
+2023;5;Chamartín;Censo;100.0
+2023;5;Chamartín;Ciudadanos;2.41
+2023;5;Chamartín;Más Madrid;8.22
+2023;5;Chamartín;Partido Popular;47.51
+2023;5;Chamartín;Partido Socialista Obrero Español;7.04
+2023;5;Chamartín;Podemos-Izquierda Unida-Alianza Verde;1.72
+2023;5;Chamartín;VOX;8.08
+2019;6;Tetuán;Censo;100.0
+2019;6;Tetuán;Más Madrid;18.87
+2019;6;Tetuán;Partido Popular;16.92
+2019;6;Tetuán;Ciudadanos;12.19
+2019;6;Tetuán;Partido Socialista Obrero Español;8.45
+2019;6;Tetuán;VOX;5.56
+2023;6;Tetuán;Censo;100.0
+2023;6;Tetuán;Ciudadanos;1.84
+2023;6;Tetuán;Más Madrid;11.9
+2023;6;Tetuán;Partido Popular;30.36
+2023;6;Tetuán;Partido Socialista Obrero Español;10.36
+2023;6;Tetuán;Podemos-Izquierda Unida-Alianza Verde;2.93
+2023;6;Tetuán;VOX;6.32
+2019;7;Chamberí;Censo;100.0
+2019;7;Chamberí;Más Madrid;19.52
+2019;7;Chamberí;Partido Popular;25.36
+2019;7;Chamberí;Ciudadanos;14.99
+2019;7;Chamberí;Partido Socialista Obrero Español;5.62
+2019;7;Chamberí;VOX;6.5
+2023;7;Chamberí;Censo;100.0
+2023;7;Chamberí;Ciudadanos;2.4
+2023;7;Chamberí;Más Madrid;11.09
+2023;7;Chamberí;Partido Popular;40.93
+2023;7;Chamberí;Partido Socialista Obrero Español;8.4
+2023;7;Chamberí;Podemos-Izquierda Unida-Alianza Verde;2.48
+2023;7;Chamberí;VOX;7.33
+2019;8;Fuencarral-El Pardo;Censo;100.0
+2019;8;Fuencarral-El Pardo;Más Madrid;18.55
+2019;8;Fuencarral-El Pardo;Partido Popular;20.15
+2019;8;Fuencarral-El Pardo;Ciudadanos;16.99
+2019;8;Fuencarral-El Pardo;Partido Socialista Obrero Español;8.38
+2019;8;Fuencarral-El Pardo;VOX;6.48
+2023;8;Fuencarral-El Pardo;Censo;100.0
+2023;8;Fuencarral-El Pardo;Ciudadanos;2.57
+2023;8;Fuencarral-El Pardo;Más Madrid;10.43
+2023;8;Fuencarral-El Pardo;Partido Popular;38.99
+2023;8;Fuencarral-El Pardo;Partido Socialista Obrero Español;10.87
+2023;8;Fuencarral-El Pardo;Podemos-Izquierda Unida-Alianza Verde;2.43
+2023;8;Fuencarral-El Pardo;VOX;7.5
+2019;9;Moncloa-Aravaca;Censo;100.0
+2019;9;Moncloa-Aravaca;Más Madrid;19.88
+2019;9;Moncloa-Aravaca;Partido Popular;24.4
+2019;9;Moncloa-Aravaca;Ciudadanos;14.92
+2019;9;Moncloa-Aravaca;Partido Socialista Obrero Español;6.52
+2019;9;Moncloa-Aravaca;VOX;6.56
+2023;9;Moncloa-Aravaca;Censo;100.0
+2023;9;Moncloa-Aravaca;Ciudadanos;2.29
+2023;9;Moncloa-Aravaca;Más Madrid;11.5
+2023;9;Moncloa-Aravaca;Partido Popular;39.92
+2023;9;Moncloa-Aravaca;Partido Socialista Obrero Español;9.19
+2023;9;Moncloa-Aravaca;Podemos-Izquierda Unida-Alianza Verde;2.75
+2023;9;Moncloa-Aravaca;VOX;7.63
+2019;10;Latina;Censo;100.0
+2019;10;Latina;Más Madrid;20.55
+2019;10;Latina;Partido Popular;15.46
+2019;10;Latina;Ciudadanos;11.02
+2019;10;Latina;Partido Socialista Obrero Español;11.17
+2019;10;Latina;VOX;4.82
+2023;10;Latina;Censo;100.0
+2023;10;Latina;Ciudadanos;1.58
+2023;10;Latina;Más Madrid;14.11
+2023;10;Latina;Partido Popular;26.44
+2023;10;Latina;Partido Socialista Obrero Español;13.08
+2023;10;Latina;Podemos-Izquierda Unida-Alianza Verde;3.98
+2023;10;Latina;VOX;5.9
+2019;11;Carabanchel;Censo;100.0
+2019;11;Carabanchel;Más Madrid;20.34
+2019;11;Carabanchel;Partido Popular;12.22
+2019;11;Carabanchel;Ciudadanos;10.16
+2019;11;Carabanchel;Partido Socialista Obrero Español;10.85
+2019;11;Carabanchel;VOX;4.44
+2023;11;Carabanchel;Censo;100.0
+2023;11;Carabanchel;Ciudadanos;1.46
+2023;11;Carabanchel;Más Madrid;13.82
+2023;11;Carabanchel;Partido Popular;23.25
+2023;11;Carabanchel;Partido Socialista Obrero Español;12.64
+2023;11;Carabanchel;Podemos-Izquierda Unida-Alianza Verde;3.5
+2023;11;Carabanchel;VOX;5.43
+2019;12;Usera;Censo;100.0
+2019;12;Usera;Más Madrid;21.12
+2019;12;Usera;Partido Popular;9.14
+2019;12;Usera;Ciudadanos;8.45
+2019;12;Usera;Partido Socialista Obrero Español;12.34
+2019;12;Usera;VOX;3.67
+2023;12;Usera;Censo;100.0
+2023;12;Usera;Ciudadanos;1.09
+2023;12;Usera;Más Madrid;15.13
+2023;12;Usera;Partido Popular;19.16
+2023;12;Usera;Partido Socialista Obrero Español;12.84
+2023;12;Usera;Podemos-Izquierda Unida-Alianza Verde;3.38
+2023;12;Usera;VOX;5.13
+2019;13;Puente de Vallecas;Censo;100.0
+2019;13;Puente de Vallecas;Más Madrid;23.53
+2019;13;Puente de Vallecas;Partido Popular;7.0
+2019;13;Puente de Vallecas;Ciudadanos;7.31
+2019;13;Puente de Vallecas;Partido Socialista Obrero Español;13.75
+2019;13;Puente de Vallecas;VOX;3.06
+2023;13;Puente de Vallecas;Censo;100.0
+2023;13;Puente de Vallecas;Ciudadanos;0.93
+2023;13;Puente de Vallecas;Más Madrid;15.11
+2023;13;Puente de Vallecas;Partido Popular;15.61
+2023;13;Puente de Vallecas;Partido Socialista Obrero Español;15.5
+2023;13;Puente de Vallecas;Podemos-Izquierda Unida-Alianza Verde;5.24
+2023;13;Puente de Vallecas;VOX;4.6
+2019;14;Moratalaz;Censo;100.0
+2019;14;Moratalaz;Más Madrid;22.8
+2019;14;Moratalaz;Partido Popular;15.96
+2019;14;Moratalaz;Ciudadanos;12.11
+2019;14;Moratalaz;Partido Socialista Obrero Español;10.8
+2019;14;Moratalaz;VOX;4.41
+2023;14;Moratalaz;Censo;100.0
+2023;14;Moratalaz;Ciudadanos;1.84
+2023;14;Moratalaz;Más Madrid;13.77
+2023;14;Moratalaz;Partido Popular;28.21
+2023;14;Moratalaz;Partido Socialista Obrero Español;13.86
+2023;14;Moratalaz;Podemos-Izquierda Unida-Alianza Verde;3.88
+2023;14;Moratalaz;VOX;5.57
+2019;15;Ciudad Lineal;Censo;100.0
+2019;15;Ciudad Lineal;Más Madrid;19.23
+2019;15;Ciudad Lineal;Partido Popular;17.54
+2019;15;Ciudad Lineal;Ciudadanos;13.44
+2019;15;Ciudad Lineal;Partido Socialista Obrero Español;9.29
+2019;15;Ciudad Lineal;VOX;5.04
+2023;15;Ciudad Lineal;Censo;100.0
+2023;15;Ciudad Lineal;Ciudadanos;2.13
+2023;15;Ciudad Lineal;Más Madrid;11.48
+2023;15;Ciudad Lineal;Partido Popular;31.88
+2023;15;Ciudad Lineal;Partido Socialista Obrero Español;11.5
+2023;15;Ciudad Lineal;Podemos-Izquierda Unida-Alianza Verde;3.12
+2023;15;Ciudad Lineal;VOX;6.14
+2019;16;Hortaleza;Censo;100.0
+2019;16;Hortaleza;Más Madrid;18.9
+2019;16;Hortaleza;Partido Popular;17.28
+2019;16;Hortaleza;Ciudadanos;17.93
+2019;16;Hortaleza;Partido Socialista Obrero Español;9.11
+2019;16;Hortaleza;VOX;6.0
+2023;16;Hortaleza;Censo;100.0
+2023;16;Hortaleza;Ciudadanos;2.61
+2023;16;Hortaleza;Más Madrid;10.94
+2023;16;Hortaleza;Partido Popular;37.43
+2023;16;Hortaleza;Partido Socialista Obrero Español;10.7
+2023;16;Hortaleza;Podemos-Izquierda Unida-Alianza Verde;2.49
+2023;16;Hortaleza;VOX;6.96
+2019;17;Villaverde;Censo;100.0
+2019;17;Villaverde;Más Madrid;20.25
+2019;17;Villaverde;Partido Popular;9.22
+2019;17;Villaverde;Ciudadanos;9.11
+2019;17;Villaverde;Partido Socialista Obrero Español;14.11
+2019;17;Villaverde;VOX;3.94
+2023;17;Villaverde;Censo;100.0
+2023;17;Villaverde;Ciudadanos;1.26
+2023;17;Villaverde;Más Madrid;13.63
+2023;17;Villaverde;Partido Popular;19.15
+2023;17;Villaverde;Partido Socialista Obrero Español;15.23
+2023;17;Villaverde;Podemos-Izquierda Unida-Alianza Verde;3.5
+2023;17;Villaverde;VOX;5.25
+2019;18;Villa de Vallecas;Censo;100.0
+2019;18;Villa de Vallecas;Más Madrid;25.72
+2019;18;Villa de Vallecas;Partido Popular;8.1
+2019;18;Villa de Vallecas;Ciudadanos;12.27
+2019;18;Villa de Vallecas;Partido Socialista Obrero Español;11.15
+2019;18;Villa de Vallecas;VOX;4.22
+2023;18;Villa de Vallecas;Censo;100.0
+2023;18;Villa de Vallecas;Ciudadanos;1.73
+2023;18;Villa de Vallecas;Más Madrid;16.66
+2023;18;Villa de Vallecas;Partido Popular;22.1
+2023;18;Villa de Vallecas;Partido Socialista Obrero Español;13.55
+2023;18;Villa de Vallecas;Podemos-Izquierda Unida-Alianza Verde;4.11
+2023;18;Villa de Vallecas;VOX;5.71
+2019;19;Vicálvaro;Censo;100.0
+2019;19;Vicálvaro;Más Madrid;24.77
+2019;19;Vicálvaro;Partido Popular;9.29
+2019;19;Vicálvaro;Ciudadanos;13.01
+2019;19;Vicálvaro;Partido Socialista Obrero Español;12.54
+2019;19;Vicálvaro;VOX;4.33
+2023;19;Vicálvaro;Censo;100.0
+2023;19;Vicálvaro;Ciudadanos;2.32
+2023;19;Vicálvaro;Más Madrid;16.29
+2023;19;Vicálvaro;Partido Popular;25.04
+2023;19;Vicálvaro;Partido Socialista Obrero Español;13.94
+2023;19;Vicálvaro;Podemos-Izquierda Unida-Alianza Verde;3.6
+2023;19;Vicálvaro;VOX;5.86
+2019;20;San Blas-Canillejas;Censo;100.0
+2019;20;San Blas-Canillejas;Más Madrid;21.7
+2019;20;San Blas-Canillejas;Partido Popular;11.53
+2019;20;San Blas-Canillejas;Ciudadanos;13.43
+2019;20;San Blas-Canillejas;Partido Socialista Obrero Español;11.42
+2019;20;San Blas-Canillejas;VOX;4.59
+2023;20;San Blas-Canillejas;Censo;100.0
+2023;20;San Blas-Canillejas;Ciudadanos;1.94
+2023;20;San Blas-Canillejas;Más Madrid;12.85
+2023;20;San Blas-Canillejas;Partido Popular;27.08
+2023;20;San Blas-Canillejas;Partido Socialista Obrero Español;13.35
+2023;20;San Blas-Canillejas;Podemos-Izquierda Unida-Alianza Verde;3.46
+2023;20;San Blas-Canillejas;VOX;5.95
+2019;21;Barajas;Censo;100.0
+2019;21;Barajas;Más Madrid;20.63
+2019;21;Barajas;Partido Popular;16.58
+2019;21;Barajas;Ciudadanos;18.53
+2019;21;Barajas;Partido Socialista Obrero Español;8.7
+2019;21;Barajas;VOX;6.28
+2023;21;Barajas;Censo;100.0
+2023;21;Barajas;Ciudadanos;2.82
+2023;21;Barajas;Más Madrid;11.41
+2023;21;Barajas;Partido Popular;36.37
+2023;21;Barajas;Partido Socialista Obrero Español;11.08
+2023;21;Barajas;Podemos-Izquierda Unida-Alianza Verde;2.63
+2023;21;Barajas;VOX;6.94
